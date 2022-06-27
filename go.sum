@@ -1,6 +1,6 @@
 github.com/SteffenL/mswebview2 v0.0.0-20220627094408-76f5151c0fab h1:aVGOU2gXWIcPVcUxiwWKQVVGXZpmwD9qV9yv0kAyIKc=
 github.com/SteffenL/mswebview2 v0.0.0-20220627094408-76f5151c0fab/go.mod h1:JmLvc3pouH11aU/CmGJsrElbmJtQW3PHpFt8jV/m+EY=
-github.com/SteffenL/webview-go v0.0.0-20220627094508-58c94077b782 h1:PI57YNMxC0Ol+EyzBncFGvnoFqwZbkr1swOvg3DgVdo=
-github.com/SteffenL/webview-go v0.0.0-20220627094508-58c94077b782/go.mod h1:B3hz5wQxdb8H90cHqhLR3NnlmQuBjO0r3S4GKhr7TQI=
+github.com/SteffenL/webview-go v0.0.0-20220627103111-2bee2e4dfed1 h1:S5fGacK0Bp6lEpyayOWzJVFMCz1jZiJzn85JaSqISpc=
+github.com/SteffenL/webview-go v0.0.0-20220627103111-2bee2e4dfed1/go.mod h1:VQS7SZtQE1LdUygdjPWMjLCKP/BL3ytT23CCSYtTXkE=
 github.com/SteffenL/webview-nogo v0.0.0-20220627094419-af41aedfcbf6 h1:nNod+O/x/awoP/X+r6lbnA/L1hGTLSZS2I6uoQVVNF8=
 github.com/SteffenL/webview-nogo v0.0.0-20220627094419-af41aedfcbf6/go.mod h1:zQusGGuUwfAe2jkPwdY3d8VgV+O7JaCEyuvrintve5k=
