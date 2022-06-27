@@ -1,6 +1,6 @@
-github.com/SteffenL/mswebview2 v0.0.0-20220627084946-f7d48b9143f1 h1:tcT+B46RNPsFynzvNvfTCzXSaoq4QIFPB0eVkEvw1bo=
-github.com/SteffenL/mswebview2 v0.0.0-20220627084946-f7d48b9143f1/go.mod h1:JmLvc3pouH11aU/CmGJsrElbmJtQW3PHpFt8jV/m+EY=
-github.com/SteffenL/webview-go v0.0.0-20220627090513-6aad082da1d5 h1:acuO5HJkKl6LYaHg5isEsxBHDrH5hQqzkEyRmwKMXs4=
-github.com/SteffenL/webview-go v0.0.0-20220627090513-6aad082da1d5/go.mod h1:wKNpeSsCK6hz5HeKv/1mwYDjLvFFxKGBO/huCekhdIM=
-github.com/SteffenL/webview-nogo v0.0.0-20220627073440-88af513c6725 h1:5/O47knExmyQzMUEPTtO7lXnPIryMHx1z5MKccT9pMU=
-github.com/SteffenL/webview-nogo v0.0.0-20220627073440-88af513c6725/go.mod h1:zQusGGuUwfAe2jkPwdY3d8VgV+O7JaCEyuvrintve5k=
+github.com/SteffenL/mswebview2 v0.0.0-20220627091918-986ef35a8ead h1:Mhmk/HuwsGKUltqnDg9FoRvUoZ6rWOWLqehWw0lLmeo=
+github.com/SteffenL/mswebview2 v0.0.0-20220627091918-986ef35a8ead/go.mod h1:JmLvc3pouH11aU/CmGJsrElbmJtQW3PHpFt8jV/m+EY=
+github.com/SteffenL/webview-go v0.0.0-20220627092123-98185eaae8b7 h1:cGV0z/LZbw9tp2PjkbpCtKQD80RdkIqXjThBtAc5+NU=
+github.com/SteffenL/webview-go v0.0.0-20220627092123-98185eaae8b7/go.mod h1:4xtR6CKLSsBcgtysiLOGr/8omPFiTkU7CX3+GcczvJs=
+github.com/SteffenL/webview-nogo v0.0.0-20220627091939-c1de85838184 h1:glxVLwLnMBebWsCSsnC8H5+NARVMhsQjCSOvt1oMuWs=
+github.com/SteffenL/webview-nogo v0.0.0-20220627091939-c1de85838184/go.mod h1:zQusGGuUwfAe2jkPwdY3d8VgV+O7JaCEyuvrintve5k=
