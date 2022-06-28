@@ -1,6 +1,6 @@
 module github.com/SteffenL/webview-go-example
 
-go 1.18
+go 1.14
 
 require github.com/SteffenL/webview-go v0.0.0-20220628051825-f2345bf1f51d
 
