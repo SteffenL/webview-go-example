@@ -1,6 +1,6 @@
 package main
 
-import "github.com/SteffenL/webview-go"
+import webview "github.com/SteffenL/webview-go/core-latest"
 
 const html = `<button id="increment">Tap me</button>
 <div>You tapped <span id="count">0</span> time(s).</div>
